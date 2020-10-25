@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1c4bebb-5a76-4878-a3d7-f0ae4029b6ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../count_with_mapreduce/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../count_with_mapreduce/code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../count_with_mapreduce/code/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603536491987</updated>
-      <workItem from="1603536557408" duration="13924000" />
+      <workItem from="1603536557408" duration="15681000" />
     </task>
     <servers />
   </component>
@@ -99,32 +99,32 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1392" height="209" key="GridCell.Tab.0.bottom" timestamp="1603629680949">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1887" height="209" key="GridCell.Tab.0.bottom" timestamp="1603642309748">
+      <screen x="0" y="23" width="2560" height="992" />
     </state>
     <state width="1392" height="209" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1603629680949" />
-    <state width="1392" height="269" key="GridCell.Tab.0.bottom/2560.371.1440.877/0.23.2560.992@0.23.2560.992" timestamp="1603623518863" />
-    <state width="1392" height="209" key="GridCell.Tab.0.center" timestamp="1603629680948">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1887" height="209" key="GridCell.Tab.0.bottom/2560.371.1440.877/0.23.2560.992@0.23.2560.992" timestamp="1603642309748" />
+    <state width="1887" height="209" key="GridCell.Tab.0.center" timestamp="1603642309747">
+      <screen x="0" y="23" width="2560" height="992" />
     </state>
     <state width="1392" height="209" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1603629680948" />
-    <state width="1392" height="269" key="GridCell.Tab.0.center/2560.371.1440.877/0.23.2560.992@0.23.2560.992" timestamp="1603623518862" />
-    <state width="1392" height="209" key="GridCell.Tab.0.left" timestamp="1603629680948">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1887" height="209" key="GridCell.Tab.0.center/2560.371.1440.877/0.23.2560.992@0.23.2560.992" timestamp="1603642309747" />
+    <state width="1887" height="209" key="GridCell.Tab.0.left" timestamp="1603642309746">
+      <screen x="0" y="23" width="2560" height="992" />
     </state>
     <state width="1392" height="209" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1603629680948" />
-    <state width="1392" height="269" key="GridCell.Tab.0.left/2560.371.1440.877/0.23.2560.992@0.23.2560.992" timestamp="1603623518861" />
-    <state width="1392" height="209" key="GridCell.Tab.0.right" timestamp="1603629680948">
-      <screen x="0" y="23" width="1440" height="812" />
+    <state width="1887" height="209" key="GridCell.Tab.0.left/2560.371.1440.877/0.23.2560.992@0.23.2560.992" timestamp="1603642309746" />
+    <state width="1887" height="209" key="GridCell.Tab.0.right" timestamp="1603642309747">
+      <screen x="0" y="23" width="2560" height="992" />
     </state>
     <state width="1392" height="209" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1603629680948" />
-    <state width="1392" height="269" key="GridCell.Tab.0.right/2560.371.1440.877/0.23.2560.992@0.23.2560.992" timestamp="1603623518862" />
+    <state width="1887" height="209" key="GridCell.Tab.0.right/2560.371.1440.877/0.23.2560.992@0.23.2560.992" timestamp="1603642309747" />
     <state x="515" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603627132201">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="515" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.812@0.23.1440.812" timestamp="1603627132201" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/avg_with_mapreduce$main.coverage" NAME="main Coverage Results" MODIFIED="1603629680941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/avg_with_mapreduce$main.coverage" NAME="main Coverage Results" MODIFIED="1603642309737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -61,15 +61,18 @@ def avg_map(list_of_tuples):
     reduced = reduce(avg_reduce,list_of_tuples)
     return (reduced[0],reduced[1]/size)
 
-# Press the green button in the gutter to run the script.
+
+
 if __name__ == '__main__':
     data = load_dataset()
-    #print(data[0])
     data = list(map(expand_row,data))
-    #print(data[1])
     data = list(map(map_filter, data))
-    #print(data[0])
-    #data = reduce_by_key(data, index_key=0)
-    #data = [reduce(reducer,l)  for l in data]
     data = list(map(avg_map,data))
-    print(data)
+    x, y = list(zip(*data[0:20]))
+    plt.bar(x,y)
+    plt.xticks(rotation=45)
+    plt.xlabel("User ID")
+    plt.ylabel("Average time")
+    plt.title("The average number of replays user by user")
+    plt.show()
+
