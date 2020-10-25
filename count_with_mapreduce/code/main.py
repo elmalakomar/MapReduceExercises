@@ -86,10 +86,11 @@ if __name__ == '__main__':
 
     data = reduce_by_key1(data, index_key = 0)
     data = list(map(transform_tuple,data))
+    print(data)
     data = reduce_by_key2(data, index_key=0)
-    print(data[0])
+    print(data)
     #plot the histogram
     x,y = zip(*data)
-    print(x,y)
+    #print(x,y)
     plt.bar(x,y)
     plt.show()
